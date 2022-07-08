@@ -17,12 +17,3 @@ const boxEl = document.getElementById('box');
 // innerHTML - sugeneruoti html struktura is string
 boxEl.innerHTML = '<h3>As esu dinamiskas <i>elementas</i></h3>';
 // boxEl.textContent = '<h3>As esu dinamiskas <i>elementas</i></h3>';
-
-/*
- <article>
-    <h2>Main title</h2> pakeisti i "pagrindinte antraste"
-    <p>Date</p> pakeisti i 'Penktadienis'
-    <p>Lorem ipsum dolor </p> darasyti prie esamo teksto " == sugeneruotas textas"
-  </article>
-  <li>Yellow</li> pakeisti paskutine spalva i 'violet'
-*/
